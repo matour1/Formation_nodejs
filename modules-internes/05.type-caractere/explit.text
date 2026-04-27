@@ -1,0 +1,12 @@
+CHP:ESSEMBLE DE CARATERE & encodage
+
+une essemble de carcatere : est un colection(point,vigule..ect chiffre) utilise pour repesenter le texte dabs un systeme informatique
+
+elle respecte deux standart
+- ASCII utilise 128 a 256 carcatere et gere les carctere standart comme les letre chiffre,carctere speciaux
+-UNICODE utilise pluse de bit pour repreesenter tous les carcatere qui existe au mode donc universel
+
+
+II-encodage
+
+encodage: est la manier dans les caracter sont ajance sous forme de sequence de bit dans un ssysteme informatique

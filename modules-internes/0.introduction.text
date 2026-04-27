@@ -1,0 +1,18 @@
+ici  on vas parle des module integre avrc node js ces sont des module inclure par defaut lors de installation de node js
+il sont disponible sans avoir a installe quoi que ce soit de suplemantaire
+ces module vons fournie des fonctionnaliter essantiel pour interagie avec le systeme exploitation , le reseau ou encore les fichier
+
+par exemple:
+  -FS: qui permet de travaille avec le systeme de fichier(CRUD);
+  - HTTP & HTTPS: pour cree des serveux http;
+  - PATH :qui fournie des utilitaire pour travaille avec le chemin des fichier;
+  - UTIL: qui fornie les utilitaire pour la programation javacript pour tous ce qui est gestion evenement,heritage, prototype,manipulation object;
+  -URL: fournie des utilitaire pour travaille avec des  url 
+  -OS: fournie les methode pour interagie avec le systeme exploitation;
+  -EVENT: module pour gere des evenement avec node js;
+  -CRYPTO: fournie des fonctionnalite de criptographie ,haschage, chiffrement ,dechiffrement des clie api ect;
+  -QUERYSTRING: fournie des utilitaire pour travaille avec des chaine de requete url 
+  -ZLIB: fournie des utilitaire de compression et de decompression;
+
+NB: pour plus information et explication visite ceux site 
+NB: pour plus information et explication visite ceux site https://devdocs.io/node/

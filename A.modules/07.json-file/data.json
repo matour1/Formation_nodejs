@@ -1,0 +1,23 @@
+{
+    "produits":[ 
+        {
+            "id":101,
+            "nom":"ordinateur gaming",
+            "prix":"1251",
+            "stock":"10"
+        },
+        {
+            "id":100,
+            "nom":"ordinateur portable",
+            "prix":1210,
+            "stock":100
+        }
+        ,
+        {
+            "id":100,
+            "nom":"telephone portable",
+            "prix":120,
+            "stock":50
+        }
+    ]
+}

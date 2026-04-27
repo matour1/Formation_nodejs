@@ -1,0 +1,1 @@
+//les buffer sont utiliser pour manipule des donne binaire
