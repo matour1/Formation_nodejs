@@ -1,0 +1,41 @@
+donc cette partie on vas parle du code asynchrone et du code synchrone
+
+#definition & explication
+   # asynchrone
+   -Le code asynchrone est un style de programmation dans le quelle le code ne execute par de fason sequentielle dans ordre dans le quelle
+est ecrit.
+
+ explication: en gros les tache qui prend du temp comme les acce reseau ,les acce fichier vont executer de manier non bloquant
+ ces a dire que au lieu attendre que chaque tache ce terminer avant de passe a un autre le programmation peut continue en executant autre ins
+ intruction et utiliser lorsque des tache asynchrone sont realise.
+ ``
+
+ ``
+ # et la function synchrone ces inverce donc execute de fason sequentielle 
+ donc les un a la suite des autre 
+
+ ``
+ <script>
+ function fontionsync(){
+    console.log("debut de la function synchrone");
+    for(let i = 0;i < 5 ; i++){
+        console.log(`traitement des donnee ${i}`);
+
+    }
+
+    console.log("fin de la function synchrone");
+}
+
+console.log(" function synchrone");
+fontionsync();
+console.log("ap function synchrone");
+ </script>
+
+ ``
+
+   -
+
+
+   
+
+   
